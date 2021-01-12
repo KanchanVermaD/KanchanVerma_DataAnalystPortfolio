@@ -1,6 +1,6 @@
 # KanchanVerma_DataAnalystPortfolio
 Data Analyst Portfolio
-# Project 1: CODE TO PREDICT CAR PURCHASING DOLLAR AMOUNT USING ANNs
+## Project 1: CODE TO PREDICT CAR PURCHASING DOLLAR AMOUNT USING ANNs
 Data cleaning and organising.
 Training model using ANNs(Artificial Neural Network)
 Developed a model to predict the total dollar amount that customers are willing to pay given their salary and expenses information.
