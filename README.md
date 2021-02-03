@@ -4,3 +4,18 @@ Data Analyst Portfolio
 Data preprocessing and feature scaling.
 Training model in ANNs(Artificial Neural Network) using keras.
 Developed a model for customer churn prediction that is if customer will exit or stay.
+
+
+
+
+## Project 2: MNIST CLASSIFICATION USING ANN
+MNIST data set is available with keras dataset and has 70000 rows and is predivided in training and test data.
+Steps:
+1. Uploaded data file from keras dataset.
+2. Used feature scaling to reduce data size.
+3. Trained model using ANN algorithm.
+4. In phase 1 trained model with one layer.
+5. In phase 2 trained model with two layers.
+6. Compared the results using confusion matrix and visualizations using seaborn heatmap.
+
+![title]("img/picture.png")
