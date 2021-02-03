@@ -11,14 +11,14 @@ Steps:
 5. In phase 2 trained model with two layers.
 6. Compared the results using confusion matrix and visualizations using seaborn heatmap.
 
-![](/images/Raw%20Image-customer%20Churn.png)
+![](images/Raw%20Image-customer%20Churn.png)
 
 
 
 ## Results for Phase 1 and Phase 2 trainings (with one and two hidden layers)
-![](/images/Phase1%20heatmap.png)
-![](/images/Phase2%20heatmap.png)
 ![](images/Phase1%20heatmap.png)
+![](images/Phase2%20heatmap.png)
+
 
 # [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/main/CustomerChurn)
 
