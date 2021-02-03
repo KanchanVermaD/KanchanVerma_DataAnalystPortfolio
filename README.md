@@ -16,7 +16,7 @@ Steps:
 
 ## Results for Phase 1 and Phase 2 trainings (with one and two hidden layers)
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Phase1%20heatmap.png)
-![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/MNIST%20Seaborn%20Heatmap.jpg")
+![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Phase2%20heatmap.png)
 
 
 # [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/Customer-Churn-Predictions)
