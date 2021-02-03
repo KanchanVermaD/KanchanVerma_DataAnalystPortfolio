@@ -14,10 +14,11 @@ Steps:
 ![](/images/Raw%20Image-customer%20Churn.png)
 
 
+
 ## Results for Phase 1 and Phase 2 trainings (with one and two hidden layers)
 ![](/images/Phase1%20heatmap.png)
 ![](/images/Phase2%20heatmap.png)
-
+![](images/Phase1%20heatmap.png)
 
 # [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/main/CustomerChurn)
 
