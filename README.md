@@ -13,6 +13,7 @@ Steps:
 
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Raw%20Image-customer%20Churn.png)
 
+
 ## Results for Phase 1 and Phase 2 trainings (with one and two hidden layers)
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Phase1%20Customer%20Churn.png)
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/MNIST%20Seaborn%20Heatmap.jpg")
