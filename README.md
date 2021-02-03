@@ -1,7 +1,7 @@
 # KanchanVerma_DataAnalystPortfolio
 Data Analyst Portfolio
 
-# [Project 1: MNIST CLASSIFICATION USING ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/MNIST/MNIST)
+# [Project 1: MNIST CLASSIFICATION USING ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/main/MNIST)
 MNIST data set is available with keras dataset and has 70000 rows and is predivided in training and test data.
 Steps:
 1. Uploaded data file from keras dataset.
