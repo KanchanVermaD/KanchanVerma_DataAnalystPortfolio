@@ -19,7 +19,7 @@ Steps:
 ![](/images/Phase2%20heatmap.png)
 
 
-# [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/Customer-Churn-Predictions)
+# [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/main/CustomerChurn)
 
 Customer Churn prediction is done in many customer oriented businesses. These may be bank or restaurants or a shop selling goods. The data is collected for the customers with information ranging from their age, gender,geography etc to the purchases or transactions done.
 When the data is collected, it may have some null values or it may scale from low to high ranges.
