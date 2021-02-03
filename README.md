@@ -18,4 +18,4 @@ Steps:
 5. In phase 2 trained model with two layers.
 6. Compared the results using confusion matrix and visualizations using seaborn heatmap.
 
-![title]("img/MNIST Seaborn Heatmap.jpg")
+![Phase2]("MNIST Seaborn Heatmap.jpg")
