@@ -8,7 +8,7 @@ Developed a model for customer churn prediction that is if customer will exit or
 
 
 
-## Project 2: MNIST CLASSIFICATION USING ANN
+## [Project 2: MNIST CLASSIFICATION USING ANN] (https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/MNIST)
 MNIST data set is available with keras dataset and has 70000 rows and is predivided in training and test data.
 Steps:
 1. Uploaded data file from keras dataset.
