@@ -16,7 +16,6 @@ Steps:
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Phase1%20Customer%20Churn.png)
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/MNIST%20Seaborn%20Heatmap.jpg)
 
-
 # [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/Customer-Churn-Predictions)
 
 Customer Churn prediction is done in many customer oriented businesses. These may be bank or restaurants or a shop selling goods. The data is collected for the customers with information ranging from their age, gender,geography etc to the purchases or transactions done.
