@@ -12,9 +12,11 @@ Steps:
 6. Compared the results using confusion matrix and visualizations using seaborn heatmap.
 
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Raw%20Image-customer%20Churn.png)
+
 ## Results for Phase 1 and Phase 2 trainings (with one and two hidden layers)
 ![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/Phase1%20Customer%20Churn.png)
-![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/MNIST%20Seaborn%20Heatmap.jpg)
+![](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/blob/main/images/MNIST%20Seaborn%20Heatmap.jpg")
+
 
 # [Project 2: Customer Churn Prediction Using ANN](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/Customer-Churn-Predictions)
 
