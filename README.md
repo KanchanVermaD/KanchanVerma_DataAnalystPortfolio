@@ -30,6 +30,16 @@ Data preprocessing and feature scaling.
 Training model in ANNs(Artificial Neural Network) using keras.
 Developed a model for customer churn prediction means a customer will exit or stay.
 
+# [Project 3: Recommender System for movies](https://github.com/KanchanVermaD/KanchanVerma_DataAnalystPortfolio/tree/main/Recommender%20System)
+
+Recommender systems are algorithms designed to help users discover movies, products, and songs by predicting the user’s rating of each item and displaying similar items that they might rate high as well.
+The objective is to show customers content that they would like best based on their historical activity. 
+
+Steps: 
+We have two datasets: One has ratings and other one has titles of movie. Step1 involves importing datasets and merging them.
+As a intermediate step, found correlation for only one movie.
+In final step, developed model for entire dataset.
+Used model to show recommendation for my data.
 
 
 
